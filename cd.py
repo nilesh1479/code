@@ -3,3 +3,5 @@ def add(a):
 print(add(7))
 
 print('hello')
+
+print('bye')
