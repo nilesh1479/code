@@ -9,3 +9,6 @@ print('bye')
 print('tatta')
 
 print('our')
+
+def mul(x,y):
+    return x*y
