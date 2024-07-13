@@ -17,3 +17,5 @@ def div(a,b):
     return a/b
 
 print('12/7/24')
+
+print('13/7')
